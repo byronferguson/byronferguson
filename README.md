@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Byron Ferguson
 ======================================================================================================================================
 
-Problem solver extraordinaire. (at least that's always my goal)
+#### Problem solver extraordinaire. _(at least that's always my goal)_
 ---------------------------------------------------------------
 
 Decades after writing my first BASIC program I landed my first paid developer job. Fast-forward again and now I've completed just over 5 years teaching others looking to switch careers how to become full-stack developers.
